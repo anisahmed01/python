@@ -17,7 +17,7 @@ It allows users to create accounts, deposit/withdraw money, update profile detai
 - Deposit & withdraw balance
 - Update name, email, and PIN
 - Delete account
-- PIN stored as string to allow leading zeros (e.g., `"0123"`)
+- PIN stored as string to allow leading zeros (e.g., "0123")
 
 ---
 
@@ -26,8 +26,9 @@ It allows users to create accounts, deposit/withdraw money, update profile detai
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
----
+```
 
+---
 
 ### 📂 Project Structure
 
@@ -37,28 +38,33 @@ streamlit run app.py
 ├── app.py                 # Streamlit UI
 ├── requirements.txt       
 ├── README.md
-├── data/
-│   └── sample_accounts.json
 └── screenshots/
     ├── home.png
     ├── create_account.png
     └── deposit.png
-
 ```
+
+---
+
 ### 🖥️ Demo Preview
-![Home Screen](screenshots/Home.png)
-![Create Account](screenshots/Create_Account.png)
-![Deposit](/screenshots/Deposit.png
 
+![Home](screenshots/home.png)  
+![Create Account](screenshots/create_account.png)  
+![Deposit](screenshots/Deposit.png)
 
-###🗄️ Data Format Example (JSON)
-{
-  "1001": {
-    "name": "John Doe",
-    "email": "john@example.com",
-    "pin": "0123",
-    "balance": 5000
+---
+
+### 🗄️ Data Format Example (JSON)
+
+```json
+[
+  {
+    "Name": "Anis Ahmed",
+    "age": 25,
+    "email": "anisahmed@gmail.com",
+    "pin": "1234",
+    "accountNo": "v830M!y",
+    "balance": 10000
   }
-}
-
-
+]
+```
