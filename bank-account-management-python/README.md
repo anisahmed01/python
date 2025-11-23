@@ -16,6 +16,21 @@ Allows users to create accounts, deposit & withdraw money, update details, and d
 - Delete Account
 - PIN stored as string to allow leading zeros (e.g., 0123)
 
+
+
+### 📂 Project Structure
+
+```
+📂 bank-account-management-python/
+├── bank.py
+├── app.py
+├── requirements.txt
+└── README.md
+```
+
+
+
+
 ### Project Structure
 
 <pre>
@@ -25,15 +40,6 @@ bank-account-management-python/
 ├── requirements.txt
 └── README.md
 </pre>
-
-
-### 📂 Project Structure
-
-📂 bank-account-management-python/
-├── bank.py
-├── app.py
-├── requirements.txt
-└── README.md
 
 
 
