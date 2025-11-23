@@ -46,9 +46,9 @@ streamlit run app.py
 
 ```
 ### 🖥️ Demo Preview
-![Home Screen](screenshots/home.png)
-![Create Account](
-![Deposit](
+![Home Screen](screenshots/Home.png)
+![Create Account](screenshots/Create_Account.png)
+![Deposit](/screenshots/Deposit.png
 
 
 ###🗄️ Data Format Example (JSON)
