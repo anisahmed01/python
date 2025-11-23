@@ -48,8 +48,8 @@ streamlit run app.py
 
 ### 🖥️ Demo Preview
 
-![Home](screenshots/home.png)  
-![Create Account](screenshots/create_account.png)  
+![Home](screenshots/Home.png)  
+![Create Account](screenshots/Create_Account.png)  
 ![Deposit](screenshots/Deposit.png)
 
 ---
