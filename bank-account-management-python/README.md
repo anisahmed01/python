@@ -45,8 +45,20 @@ streamlit run app.py
     └── deposit.png
 
 ```
+### 🖥️ Demo Preview
+![Home Screen](screenshots/home.png)
+![Create Account](
+![Deposit](
 
 
-
+###🗄️ Data Format Example (JSON)
+{
+  "1001": {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "pin": "0123",
+    "balance": 5000
+  }
+}
 
 
