@@ -86,8 +86,6 @@ FILE REMOVED SUCCESSFULLY
 
 ### 📍 Repo Path
 
-Ensure the project exists at:
-
 ```
 /python/python-file-manager-cli/
 ```
