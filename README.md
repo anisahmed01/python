@@ -26,9 +26,3 @@ Each project has its own folder and dedicated README.
 MIT
 
 
-### 📌 Usage
-
-Clone the repo and navigate into any project:
-
-```bash
-git clone https://github.com/<your-username>/python.git
