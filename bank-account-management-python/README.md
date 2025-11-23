@@ -27,7 +27,6 @@ bank-account-management-python/
 </pre>
 
 
-
 ### 📂 Project Structure
 
 📂 bank-account-management-python/
